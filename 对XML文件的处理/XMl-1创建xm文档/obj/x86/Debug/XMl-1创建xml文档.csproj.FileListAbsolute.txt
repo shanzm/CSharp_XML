@@ -1,0 +1,4 @@
+D:\Documents\Visual Studio 2010\Projects\XMl文档\XMl-1创建xm文档\obj\x86\Debug\Winform-创建xm文档l.exe
+D:\Documents\Visual Studio 2010\Projects\XMl文档\XMl-1创建xm文档\obj\x86\Debug\Winform-创建xm文档l.pdb
+D:\Documents\Visual Studio 2010\Projects\XMl文档\XMl-1创建xm文档\bin\Debug\Winform-创建xm文档l.exe
+D:\Documents\Visual Studio 2010\Projects\XMl文档\XMl-1创建xm文档\bin\Debug\Winform-创建xm文档l.pdb

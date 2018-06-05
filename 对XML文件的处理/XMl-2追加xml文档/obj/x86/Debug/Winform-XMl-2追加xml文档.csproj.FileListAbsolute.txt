@@ -1,0 +1,4 @@
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform-XMl-2追加xml文档\bin\Debug\Winform-XMl-2追加xml文档.exe
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform-XMl-2追加xml文档\bin\Debug\Winform-XMl-2追加xml文档.pdb
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform-XMl-2追加xml文档\obj\x86\Debug\Winform-XMl-2追加xml文档.exe
+D:\Documents\Visual Studio 2010\Projects\Winform\Winform-XMl-2追加xml文档\obj\x86\Debug\Winform-XMl-2追加xml文档.pdb

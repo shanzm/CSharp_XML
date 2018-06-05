@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMl-1创建xml文档", "XMl-1创建xm文档\XMl-1创建xml文档.csproj", "{7FF98307-B5D0-4C37-B92E-38B96FC75A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMl-2追加xml文档", "XMl-2追加xml文档\XMl-2追加xml文档.csproj", "{9CE1A1B4-3991-45AA-A7C5-CD97A49BF28F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMl-4文件对象模型DOM-创建XML", "XMl-4文件对象模型DOM-创建XML\XMl-4文件对象模型DOM-创建XML.csproj", "{909EBFD0-CFFA-413B-B2A3-AB1342C270D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMl-5使用DOM方式读取xml-判断登录", "XMl-5使用DOM方式读取xml-判断登录\XMl-5使用DOM方式读取xml-判断登录.csproj", "{96048E22-4858-4B85-80B2-AFA4E23DBB96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML-6增删改查-应用练习", "XML-6增删改查-应用练习\XML-6增删改查-应用练习.csproj", "{CADA326A-1DEA-41E7-9179-BBC8364F4B3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMl-3读取xml文件-增删改查", "XMl-3读取xml文件-增删改查\XMl-3读取xml文件-增删改查.csproj", "{3EB3787D-5ED0-4DF0-8CD5-1AAA422294E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FF98307-B5D0-4C37-B92E-38B96FC75A3A}.Debug|x86.ActiveCfg = Debug|x86
+		{7FF98307-B5D0-4C37-B92E-38B96FC75A3A}.Debug|x86.Build.0 = Debug|x86
+		{7FF98307-B5D0-4C37-B92E-38B96FC75A3A}.Release|x86.ActiveCfg = Release|x86
+		{7FF98307-B5D0-4C37-B92E-38B96FC75A3A}.Release|x86.Build.0 = Release|x86
+		{9CE1A1B4-3991-45AA-A7C5-CD97A49BF28F}.Debug|x86.ActiveCfg = Debug|x86
+		{9CE1A1B4-3991-45AA-A7C5-CD97A49BF28F}.Debug|x86.Build.0 = Debug|x86
+		{9CE1A1B4-3991-45AA-A7C5-CD97A49BF28F}.Release|x86.ActiveCfg = Release|x86
+		{9CE1A1B4-3991-45AA-A7C5-CD97A49BF28F}.Release|x86.Build.0 = Release|x86
+		{909EBFD0-CFFA-413B-B2A3-AB1342C270D1}.Debug|x86.ActiveCfg = Debug|x86
+		{909EBFD0-CFFA-413B-B2A3-AB1342C270D1}.Debug|x86.Build.0 = Debug|x86
+		{909EBFD0-CFFA-413B-B2A3-AB1342C270D1}.Release|x86.ActiveCfg = Release|x86
+		{909EBFD0-CFFA-413B-B2A3-AB1342C270D1}.Release|x86.Build.0 = Release|x86
+		{96048E22-4858-4B85-80B2-AFA4E23DBB96}.Debug|x86.ActiveCfg = Debug|x86
+		{96048E22-4858-4B85-80B2-AFA4E23DBB96}.Debug|x86.Build.0 = Debug|x86
+		{96048E22-4858-4B85-80B2-AFA4E23DBB96}.Release|x86.ActiveCfg = Release|x86
+		{96048E22-4858-4B85-80B2-AFA4E23DBB96}.Release|x86.Build.0 = Release|x86
+		{CADA326A-1DEA-41E7-9179-BBC8364F4B3B}.Debug|x86.ActiveCfg = Debug|x86
+		{CADA326A-1DEA-41E7-9179-BBC8364F4B3B}.Debug|x86.Build.0 = Debug|x86
+		{CADA326A-1DEA-41E7-9179-BBC8364F4B3B}.Release|x86.ActiveCfg = Release|x86
+		{CADA326A-1DEA-41E7-9179-BBC8364F4B3B}.Release|x86.Build.0 = Release|x86
+		{3EB3787D-5ED0-4DF0-8CD5-1AAA422294E7}.Debug|x86.ActiveCfg = Debug|x86
+		{3EB3787D-5ED0-4DF0-8CD5-1AAA422294E7}.Debug|x86.Build.0 = Debug|x86
+		{3EB3787D-5ED0-4DF0-8CD5-1AAA422294E7}.Release|x86.ActiveCfg = Release|x86
+		{3EB3787D-5ED0-4DF0-8CD5-1AAA422294E7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

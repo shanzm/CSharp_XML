@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <BooK1>
+    <Name>C#入门经典</Name>
+    <Price>98</Price>
+    <Auther 性别="男">莎士比亚</Auther>
+    <Evalute>★★★☆☆</Evalute>
+  </BooK1>
+  <BooK2>
+    <Name>C#高级编程</Name>
+    <Price>99</Price>
+    <Auther 性别="男">柏拉图</Auther>
+    <Evalute>★★★☆☆</Evalute>
+  </BooK2>
+</Books>
