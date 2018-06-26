@@ -11,6 +11,9 @@ namespace XMl_3文件对象模型
         //关于C#读写XML文件的两种方式：流模型SAX  和   文档对象模型DOM
         //https://blog.csdn.net/watkinsong/article/details/8701191
         //https://www.cnblogs.com/netlzl/p/4328418.html
+        
+        // DOM解析是在内存中创建一个XML文件的DOM模型，可以方便的对结点进行访问，可以修改结点，添加结点，更加灵活，总体来说，我一般不用SAX进行解析。
+        //DOM解析有个最大的问题就是，XML文件没有大小限制，所以如果你的XML文档太大的话，所有的结点都会加载到内存中。
         static void Main(string[] args)
         {
            
