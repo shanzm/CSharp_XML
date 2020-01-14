@@ -1,4 +1,0 @@
-D:\Documents\Visual Studio 2010\Projects\XMl文档\XMl-3读取xml文件\bin\Debug\Winform-XMl-3-读取xml文件.exe
-D:\Documents\Visual Studio 2010\Projects\XMl文档\XMl-3读取xml文件\bin\Debug\Winform-XMl-3-读取xml文件.pdb
-D:\Documents\Visual Studio 2010\Projects\XMl文档\XMl-3读取xml文件\obj\x86\Debug\Winform-XMl-3-读取xml文件.exe
-D:\Documents\Visual Studio 2010\Projects\XMl文档\XMl-3读取xml文件\obj\x86\Debug\Winform-XMl-3-读取xml文件.pdb

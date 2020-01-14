@@ -1,4 +1,0 @@
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform-创建xm文档l\bin\Debug\Winform-创建xm文档l.exe
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform-创建xm文档l\bin\Debug\Winform-创建xm文档l.pdb
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform-创建xm文档l\obj\x86\Debug\Winform-创建xm文档l.exe
-D:\Documents\Visual Studio 2010\Projects\Winform\Winform-创建xm文档l\obj\x86\Debug\Winform-创建xm文档l.pdb
